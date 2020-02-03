@@ -1,1 +1,2 @@
-# Exr3
+# Exercice 3
+## Un premier exercice
